@@ -46,3 +46,21 @@ Prochaine séance :
 
 Chaque groupe ce mette activement a ce documenter sur son chapitre et commencer le code.
 Le leader n'aura pas besoin de faire d'intervention a moins qu'il y ait de gros soucis.
+
+
+Séance 5 
+Leader TABIT Soulaïman
+
+1. Les éleves on commencer a coder activement 
+2. Choix nouveau Leader 
+
+Downloading Web Page : Anso/Nicolas 
+Drawing to The Screen : Mathys/Tom
+Formating Text : Abou-Bakr/Felix
+Constructing a Document Tree : Cédric/Sacha
+Laying Out Pages : ?
+Applying User Styles : Soulaïman/Andrew
+Handing Buttons and Links : Brayton/Remi
+
+Prochaine séance :
+Continuer le code
